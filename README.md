@@ -27,3 +27,13 @@ Agregar un objeto Canvas para generar una interfaz de usuario que permita las si
 Los scripts correspondientes se encuentran en el directorio `interfaz`.
 
 ![GIF Interfaz de Usuario](img/interfaz1.gif)
+
+## Escenas Cardboard
+
+Crear una aplicación de RV en la que:
+- El jugador pueda recoger un poder de la UI (**Rayo óptico**) que le permita eliminar alguno de los tipos de objetos en la escena (**esferas**).
+- El usuario también podrá hacer que vibren todos los objetos de un segundo tipo (**cilindros**) cuando seleccione con la mirada un objeto de un tercer tipo (**cubos**).
+
+Los scripts correspondientes se encuentran en el directorio `escenas_cardboard`.
+
+![GIF Escenas Cardboard](img/cardboard.gif)
